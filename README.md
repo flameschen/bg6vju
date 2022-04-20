@@ -1,37 +1,83 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/flameschen/index.htm/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<html>
+<head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<meta http-equiv="X-UA-Compatible" content="IE=8">
+<meta http-equiv="X-UA-Compatible" content="edge" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+<link rel="shortcut icon" href="99.ico"><link rel="apple-touch-icon" sizes="16x16" href="99.ico" />
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+<!--
+body,td,th {
+	font-family: 宋体;
+	font-weight: bold;
+	color: #F0F0F0;
+}
+.STYLE1 {
+	color: #CC00CC
+}
+.STYLE2 {
+	font-size: medium;
+	color: #CC0000;
+}
+.STYLE4 {color: #6600FF}
+body {
+	background-image: url( sx.jpg);
+}
+.STYLE6 {
+	color: #FF0000
+}
+.STYLE7 {font-size: x-large; color: #0000FF; }
+.STYLE9 {color: #FF0000; font-size: xx-large; font-style: italic; }
+.STYLE14 {
+	color: #FF0000
+}
+.STYLE15 {font-size: 24px}
+-->
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+</head>
+<body bgcolor="#D6D6D6" text="#FF0000" link="#ff0000" vLink="#0000FF" aLink="#0000CC" class="STYLE7">
+<!--<embed src="haicao.mp3" hidden="true" autostart="true" loop="true">-->
+<video width="320" height="240" controls>
+  <source src="ham.mp4" type="video/mp4">
+  <p align="center">&nbsp;</p>
+</video>
+<center mm_ta_clear="STYLE2">
+  <p class="STYLE14"><font size="4" face="Arial Black">Welcome to BG6VJU</font> <span class="STYLE15">blog's </span></p>
+  <p><span class="STYLE6"><span class="STYLE2">请遵守国家相关网络安全和国际互联网的有关规定 不要以身试法谢谢！</span></span></p>
+  <p><span class="STYLE6"><a href="/gonggao.html" class="STYLE14" onClick="MM_popupMsg('大吉大利！')">网站简介和相关法律</a></p>
+  <p><br />
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+  </p>
+  <p>
+    <!--代码结束-->
+  </p>
+  <h2 align="center" class="STYLE7"><a href="/index2.html" target="_blank" class="STYLE1"><span class="STYLE9">>>点此进入Amateur radio主站</span></a></h2>
+  <p><a href="https://coronavirus.jhu.edu/map.html">全球新冠疫情数据</a></p>
+  <p>&nbsp;</p>
+  <p><a href="http://flameschen.blog.chinaunix.net/" target="_blank" class="STYLE4"><span class="STYLE7">>>点此进入我的Blog</span></a></p>
+  <p><a href="https://flameschen.github.io/bg6vju/" target="_blank" class="STYLE4"><span class="STYLE7">>>点此进入github blog</span></a></p>
+	<p><a href="http://flameschen.blog.chinaunix.net/" target="_blank" class="STYLE4"></a></p>
+	<p>&nbsp;</p>
+</center>
+<!--
+<EMBED src="heike.mid" width=0 height=0 type=audio/x-mplayer2 loop="-1" autostart="1" volume="0" EnableContextMenu="0" showstatusbar="0" console="video"></EMBED>-->
+</body>
+</html>
+	  </div>
+			  <footer>
+			    <div align="center" class="STYLE2">
+			     备案号：<a href="https://beian.miit.gov.cn" class="STYLE18">鄂ICP备17022388号-1</a> <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=42050602000092" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><span class="STYLE18"><img src="/ghs.png" width="20" height="20" border="0" longdesc="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=42050602000092">鄂公网安备 42050602000092号</span></a></p> <p align="right" style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;"><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=42050602000092" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"></a><span class="STYLE17"><a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=42050602000092" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"></a> </span></p>
+				</div>
+			  </footer>
+	</div>
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/flameschen/index.htm/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
