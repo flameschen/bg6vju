@@ -62,7 +62,7 @@ body {
   <h2 align="center" class="STYLE7"><a href="/index2.html" target="_blank" class="STYLE1"><span class="STYLE9">>>点此进入Amateur radio主站</span></a></h2>
   <p><a href="https://coronavirus.jhu.edu/map.html">全球新冠疫情数据</a></p>
   <p>&nbsp;</p>
-  <p><a href="http://flameschen.blog.chinaunix.net/" target="_blank" class="STYLE4"><span class="STYLE7">>>点此进入我的Blog</span></a></p>
+  <p><a href="http://blog.chinaunix.net/uid/210143.html" target="_blank" class="STYLE4"><span class="STYLE7">>>点此进入我的Blog</span></a></p>
   <p><a href="https://flameschen.github.io/bg6vju/" target="_blank" class="STYLE4"><span class="STYLE7">>>点此进入github blog</span></a></p>
 	<p><a href="http://flameschen.blog.chinaunix.net/" target="_blank" class="STYLE4"></a></p>
 	<p>&nbsp;</p>
