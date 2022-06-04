@@ -52,7 +52,7 @@ body {
 <center mm_ta_clear="STYLE2">
   <p class="STYLE14"><font size="4" face="Arial Black">Welcome to BG6VJU</font> <span class="STYLE15">blog's </span></p>
   <p><span class="STYLE6"><span class="STYLE2">请遵守国家相关网络安全和国际互联网的有关规定 不要以身试法谢谢！</span></span></p>
-  <p><span class="STYLE6"><a href="/gonggao.html" class="STYLE14" onClick="MM_popupMsg('大吉大利！')">网站简介和相关法律</a></p>
+  <p><span class="STYLE6"><a href=(https://www.flameschen.com/gonggao.html" class="STYLE14" onClick="MM_popupMsg('大吉大利！')">网站简介和相关法律</a></p>
   <p><br />
 
   </p>
