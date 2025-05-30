@@ -52,7 +52,7 @@ body {
 <center mm_ta_clear="STYLE2">
   <p class="STYLE14"><font size="4" face="Arial Black">Welcome to BG6VJU</font> <span class="STYLE15">blog's </span></p>
   <p><span class="STYLE6"><span class="STYLE2">请遵守国家相关网络安全和国际互联网的有关规定 不要以身试法谢谢！</span></span></p>
-  <p><span class="STYLE6"><a href=(https://www.flameschen.com/gonggao.html" class="STYLE14" onClick="MM_popupMsg('大吉大利！')">网站简介和相关法律</a></p>
+  <p><span class="STYLE6">网站简介和相关法律</a></p>
   <p><br />
 
   </p>
@@ -66,17 +66,16 @@ body {
   <p><a href="https://flameschen.github.io/bg6vju/" target="_blank" class="STYLE4"><span class="STYLE7">>>点此进入github blog</span></a></p>
 	<p><a href="http://flameschen.blog.chinaunix.net/" target="_blank" class="STYLE4"></a></p>
 	<p>&nbsp;</p>
-</center>
+
 <!--
 <EMBED src="heike.mid" width=0 height=0 type=audio/x-mplayer2 loop="-1" autostart="1" volume="0" EnableContextMenu="0" showstatusbar="0" console="video"></EMBED>-->
-</body>
-</html>
-	  div
-			  <footer>
+
+
+			 
 			    <div align="center" class="STYLE2">
-			     备案号：<a href="https://beian.miit.gov.cn" class="STYLE18">鄂ICP备17022388号-1</a> <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=42050602000092" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><span class="STYLE18">鄂公网安备 42050602000092号</span></a></p> <p align="right" style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;"><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=42050602000092" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"></a><span class="STYLE17"><a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=42050602000092" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"></a> </span></p>
+			     备案号：<a href="https://beian.miit.gov.cn" class="STYLE18">鄂ICP备17022388号-1</a> <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=42050602000092" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><span class="STYLE18">鄂公网安备 42050602000092号</span></a><p align="right" style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;"><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=42050602000092" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"></a><span class="STYLE17"><a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=42050602000092" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"></a> </span></p>
 			
-			  </footer>
+			 
 <div>
 
 
