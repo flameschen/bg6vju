@@ -72,11 +72,6 @@ body {
 
 
 			 
-			    <div align="center" class="STYLE2">
-			     备案号：<a href="https://beian.miit.gov.cn" class="STYLE18">鄂ICP备17022388号-1</a> <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=42050602000092" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><span class="STYLE18">鄂公网安备 42050602000092号</span></a><p align="right" style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;"><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=42050602000092" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"></a><span class="STYLE17"><a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=42050602000092" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"></a> </span></p>
-			
-			 
-<div>
 
 
 
